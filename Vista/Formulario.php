@@ -1,5 +1,5 @@
 <div class="w3-row">
-	<form action="Controlador/Formulario_controlador.php" method ="post">	
+	<form action="Formulario_controlador.php" method ="post">	
 		<input type="hidden" name="clientid" value="1">
 		<h2> Complete el formulario para el envio de dinero </h2>
 		<table class="w3-responsive">
